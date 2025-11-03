@@ -1,4 +1,6 @@
 🌊 Marine Debris Detection using CNN
+
+
 🧩 Problem Statement
 
 Marine pollution has become one of the biggest threats to ocean life. Large amounts of plastic, metal, and other waste float on the ocean surface or settle underwater. Detecting and classifying this debris can assist in cleanup and recycling efforts, helping protect marine ecosystems.
@@ -9,7 +11,7 @@ To develop a Convolutional Neural Network (CNN) model that can detect and classi
 
 🌱 Why It Supports Sustainability
 
-This project aligns with our Sustainable Development Goal:
+This project aligns with our Sustainable Development Goals
 By identifying waste in marine environments, it helps:
 
 Track pollution sources
