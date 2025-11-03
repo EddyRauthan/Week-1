@@ -24,6 +24,8 @@ Promote recycling and awareness
 
 Source: Roboflow Marine Debris Dataset
 
+Link: https://universe.roboflow.com/marine-debris/marine-debris-i2ge3/dataset/49#
+
 Format: YOLOv8 / JPG images with labeled debris categories
 
 ⚙️ Tech Stack
